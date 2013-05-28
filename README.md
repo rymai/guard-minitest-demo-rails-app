@@ -1,9 +1,10 @@
 ## Demo app to test guard-minitest
 
 1. `git clone git://github.com/rymai/guard-minitest-demo-rails-app.git`
-2. `bundle install`
-3. `bundle exec guard`
-4. You should see this:
+2. `cd guard-minitest-demo-rails-app`
+3. `bundle install`
+4. `bundle exec guard`
+5. You should see this:
   ```bash
   23:28:43 → bundle exec guard
   23:29:11 - INFO - Guard uses TerminalTitle to send notifications.
